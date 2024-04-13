@@ -11,20 +11,11 @@
 
   🎓 충북대학교 소프트웨어학과 졸업  <br>
   🗣 충북대학교 멋쟁이 사자처럼 9기 (2021. 3 ~ 2021. 12) <br>
-  🗣 충북대학교 MINE LAB (2022. 7 ~ 2023. 2) <br>
-  🗣 KT AIVLE SCHOOL 4기 (2023. 8 ~ 2024. 1) <br>
-  🗣 KT
+  🗣 충북대학교 MINE LAB (2022. 7 ~ 2023. 2)  <br>
+  🗣 KT AIVLE SCHOOL 4기 (2023. 8 ~ 2024. 1)  <br>
 
   <br>
  
 </div>
 
 
-<div align="center">
-  
-  
-  ### 🛠 SKILL 🛠
- 
-
- 
-</div>
