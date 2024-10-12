@@ -2,7 +2,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 🎓 충북대학교 소프트웨어학과 졸업 (2018. 3 ~ 2024. 2) <br></li>🗣 충북대학교 멋쟁이 사자처럼 9기 (2021. 3 ~ 2021. 12) <br></li>🗣 충북대학교 MINE LAB (2022. 7 ~ 2023. 2) <br></li>🗣 KT AIVLE SCHOOL 4기 (2023. 8 ~ 2024. 1) <br></li>🗣 KT (2024. 4 ~ ) </li> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 🎓 충북대학교 소프트웨어학과 졸업 (2018. 3 ~ 2024. 2) <br></li>📚 충북대학교 멋쟁이 사자처럼 9기 (2021. 3 ~ 2021. 12) <br></li>📚 충북대학교 MINE LAB (2022. 7 ~ 2023. 2) <br></li>📚 KT AIVLE SCHOOL 4기 (2023. 8 ~ 2024. 1) <br></li>✨ KT (2024. 4 ~ ) </li> </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -31,4 +31,3 @@
     <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaatanyy%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
        </div> 
     </div>
-    
